@@ -1,0 +1,12 @@
+//
+// Created by Sneha Gurung on 12/15/22.
+//
+
+#ifndef PORTFOLIO_RANKENUMS_H
+#define PORTFOLIO_RANKENUMS_H
+
+enum rankEnum {
+    ACE, TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING, NUM_RANKS
+};
+
+#endif //PORTFOLIO_RANKENUMS_H
